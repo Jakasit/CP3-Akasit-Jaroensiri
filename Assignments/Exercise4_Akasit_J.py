@@ -7,3 +7,7 @@ print("Foundation English              ",FE)
 print("General Business                ",GB)
 print("Introduction to Computer Systems",ICS)
 print("Computer Programming            ",CP)
+
+a = input()
+b = input()
+print (int(a)+int(b))
